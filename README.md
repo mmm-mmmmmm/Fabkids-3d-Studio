@@ -1,7 +1,7 @@
 # 🎨 Fabkids 3D Studio 
 ### Bringing STEAM Imagination to Life for Kids
 
-[![Live Site](https://img.shields.io/badge/Visit-Website-blue?style=for-the-badge)](https://mmm-mmmmmm.github.io/Fabkids-3d-Studio/)
+[![Live Site](https://img.shields.io/badge/Visit-Website-blue?style=for-the-badge)](https://fabkids-3d-studio.netlify.app/)
 
 **Fabkids 3D Studio** is a cutting-edge creative hub where kids master **Voxel pixels** and **3D printing**. We bridge the gap between digital design and physical reality through hands-on STEAM education.
 
