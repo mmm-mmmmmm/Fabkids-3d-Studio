@@ -3,7 +3,7 @@
 
 [![Live Site](https://img.shields.io/badge/Visit-Website-blue?style=for-the-badge)](https://fabkids-3d-studio.netlify.app/)
 
-**Fabkids 3D Studio** is a cutting-edge creative hub where kids master **Voxel pixels** and **3D printing**. We bridge the gap between digital design and physical reality through hands-on STEAM education.
+**Fabkids 3D Studio** is a cutting-edge creative hub where kids master **Voxel pixels** and **3D printing**. We bridge the gap between digital design and physical reality through hands-on STEM education.
 
 ## 🚀 Key Features
 * **Voxel Editor:** Intuitive design tools for children.
